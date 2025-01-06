@@ -2,24 +2,15 @@
 
 Step 1: Deciding (not) to Segment
 
-Discussion: Whether McDonald's should implement market segmentation in its marketing strategy. This decision hinges on whether segmentation can better address diverse customer needs or if a more uniform approach would suffice.
+The statement is about whether McDonald's should consider market segmentation or not in their marketing strategy.
 
 Step 2: Specifying the Ideal Target Segment
 
-Criteria: McDonald’s management evaluates segments based on:
-- Homogeneity
-- Distinctiveness
-- Size
-- Alignment with company strengths
-- Identifiability
-- Reachability
-Focus: Determine which segments favor McDonald's and which do not, aiming to enhance positive perceptions or address negative ones.
+McDonald's management must decide which features make a market segment attractive based on criteria such as homogeneity, distinctiveness, size, matching strengths, identifiability, and reachability. They can focus on solidifying their position in existing segments or understanding and modifying perceptions of segments currently not fond of McDonald's. Liking and frequent consumption of McDonald's are the criteria used in this case study for target segment selection.
 
 Step 3: Collecting Data
 
-Dataset: Responses from 1453 Australian consumers were gathered on 11 perception attributes, along with age and gender data.
-
-Analysis Foundation: Data collection aimed at segmenting the market based on consumer perceptions.
+The data set contains responses from 1453 Australian consumers about their perceptions of McDonald’s based on 11 attributes and their age and gender. Additional information could have been collected to develop a more detailed market segmentation.
 
 Step 4: Exploring Data
 
