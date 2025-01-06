@@ -25,7 +25,7 @@ Principal Component Analysis (PCA):
 
 - Performed PCA to reduce dimensionality and identify key components.
 - The first two components explained significant variance, highlighting key perception differences such as "cheap" vs. "expensive."
-  
+
 Step 5: Extracting Segments
 
 K-Means Clustering:
